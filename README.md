@@ -46,7 +46,7 @@ As I said in the description my project consists of two important parts: the log
 <h2>Pictures and Videos of the Project</h2>
 
 <p align="center">
-  Watch video:  (https://i.imgur.com/cGBeD3s.jpg)](https://i.imgur.com/cGBeD3s.mp4)
+  Watch video:  (https://imgur.com/QYnQb3G)
 
  <br/>
 <img src="https://imgur.com/eDtsbVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
